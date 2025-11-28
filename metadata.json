@@ -1,0 +1,7 @@
+{
+  "name": "Clinical Medicine Resource Hub",
+  "description": "A comprehensive resource hub for medical students and professionals featuring discussions, announcements, and AI-powered study aids.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
